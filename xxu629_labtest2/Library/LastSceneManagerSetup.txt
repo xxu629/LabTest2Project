@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/SampleAssets/SampleScenes/Scenes/CharacterThirdPerson.unity
+  isLoaded: 1
+  isActive: 1
